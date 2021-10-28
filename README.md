@@ -2,18 +2,26 @@
 Projeto criado durante a Next Level Week, treinamento oferecido pela Rocketseat utilizando tecnologias como NodeJS, ReactJS, React Native, Elixir.
 
 <h1 align="center">
-    <img alt="" src="" />
+    <img alt="" src="https://github.com/rodrigorangeldev/NLW-Heat-2021/blob/main/nlwHeat_backend.png?raw=true" width="100%" />
+</h1>
+
+<br>
+
+<h1 align="center">
+    <img alt="" src="https://github.com/rodrigorangeldev/NLW-Heat-2021/blob/main/ElixirApp.png?raw=true" width="100%" />
 </h1>
 
 <br>
 
 <p align="center">
-  <img alt="" src="" width="100%">
+  <img alt="" src="https://github.com/rodrigorangeldev/NLW-Heat-2021/blob/main/nlwHeat_web.png?raw=true" width="100%">
 </p>
 
 <p align="center">
-  <img alt="" src="" width="40%">
+  <img alt="" src="https://github.com/rodrigorangeldev/NLW-Heat-2021/blob/main/nlwHeatApp1.jpeg?raw=true" width="40%">
+  <img alt="" src="https://github.com/rodrigorangeldev/NLW-Heat-2021/blob/main/nlwheatapp2.jpeg?raw=true" width="40%">
 </p>
+
 
 ## 🚀 Tecnologias
 
@@ -27,6 +35,8 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 - [Github OAuth](https://docs.github.com/en/developers/apps/building-oauth-apps/authorizing-oauth-apps)
 - [TypeScript](https://www.typescriptlang.org/)
 - [Vite](https://vitejs.dev/blog/announcing-vite2.html)
+- [Socket.io](https://socket.io/)
+- [Axios](https://www.npmjs.com/package/axios)
 
 
 ## 💻 Projeto
