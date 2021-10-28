@@ -1,5 +1,5 @@
 # Next Level Week Heat - 2021
-Projeto criado durante a Next Level Week, treinamento oferecido pela Rocketseat utilizando tecnologias como NodeJS, ReactJS, React Native, Elixir.
+Projeto criado durante a Next Level Week, treinamento oferecido pela Rocketseat utilizando tecnologias como NodeJS, ReactJS, React Native e Elixir.
 
 <h1 align="center">
     <img alt="" src="https://github.com/rodrigorangeldev/NLW-Heat-2021/blob/main/nlwHeat_backend.png?raw=true" width="100%" />
